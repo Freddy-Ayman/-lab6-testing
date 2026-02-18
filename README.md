@@ -3,7 +3,7 @@
 A Flask-based web application for managing contacts. This application intentionally has some bugs for educational purposes in software testing.
 
 ## Prerequisites
-
+ 
 - Python 3.8 or higher
 - pip (Python package installer)
 - Git
